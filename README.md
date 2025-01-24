@@ -2,8 +2,8 @@
 
 Welcome to the **Random Joke Generator**! This web application fetches and displays a random joke with a single click, brightening your day with humor. 😄
 
-![Random Joke Generator](Screenshot.png.png)  
-*(Replace this placeholder with an actual screenshot of your project.)*
+![Random Joke Generator](Screenshot.png)  
+
 
 ---
 
